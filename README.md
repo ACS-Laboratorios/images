@@ -94,3 +94,8 @@ Este tutorial visa orientar os usuários no uso eficiente do sistema Acs Analít
    ![Protocolo Recebido Formulário](https://raw.githubusercontent.com/ACS-Laboratorios/images/main/imagens/form-receb-materiais.png)
 
    Aqui você pode visualizar o formulário de confirmação de recebimento de materiais
+
+8.4 **Prazos de Propostas**
+   ![Proposta Prazos de Entrega](https://raw.githubusercontent.com/ACS-Laboratorios/images/main/imagens/prazos_propostas_analitica.png)
+
+   Aqui voce vai criar os prazos de entregas das propostas
