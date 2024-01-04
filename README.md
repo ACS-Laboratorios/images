@@ -16,7 +16,7 @@ Este tutorial visa orientar os usuários no uso eficiente do sistema Acs Analít
 
    Para criar uma nova proposta, clique no ícone `+`. Você será redirecionado para a tela de adição de propostas.
 
-   ![Proposta Analitica ADD](https://raw.githubusercontent.com/ACS-Laboratorios/images/main/imagens/Proposta%Analitica%ADD.png)
+   ![Proposta Analitica ADD](https://raw.githubusercontent.com/ACS-Laboratorios/images/main/imagens/proposta_analitica_add.png)
 
 3. **Preenchendo Informações da Proposta**
 
