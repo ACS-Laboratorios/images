@@ -85,14 +85,14 @@ Este tutorial visa orientar os usuários no uso eficiente do sistema Acs Analít
 
    Aqui você pode visualizar o que foi recebido de amostras.
 
-
 8.2 **Protocolo Recebido Materiais**
    ![Protocolo Recebido Materiais](https://raw.githubusercontent.com/ACS-Laboratorios/images/main/imagens/protocolo-recebido-materiais.png)
 
    Aqui você pode visualizar o que foi recebido de materiais.
 
-
 8.3 **Protocolo Recebido Formulário**
+
+
    ![Protocolo Recebido Formulário](https://raw.githubusercontent.com/ACS-Laboratorios/images/main/imagens/form-receb-materiais.png)
 
    Aqui você pode visualizar o formulário de confirmação de recebimento de materiais
